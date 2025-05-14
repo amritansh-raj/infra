@@ -1,0 +1,7 @@
+*.env
+nginx/ssl/*.crt
+nginx/ssl/*.key
+nginx/ssl/*.pem
+logs/
+ssl/*
+config/sites-enabled/*
